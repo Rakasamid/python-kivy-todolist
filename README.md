@@ -27,11 +27,9 @@ Aplikasi manajemen tugas (*To-Do List*) berbasis mobile sederhana yang dibangun 
 
 | Tampilan Utama | Tambah Tugas |
 | :---: | :---: |
-| `<img width="794" height="626" alt="image" src="https://github.com/user-attachments/assets/b4e03572-c9f2-4607-b0ca-5f9464681599" />
-` | `<img width="788" height="628" alt="image" src="https://github.com/user-attachments/assets/54a38306-a1c5-48b1-b432-031fe89d87e5" />
-` |
+| ![Main UI] <img width="794" height="626" alt="image" src="https://github.com/user-attachments/assets/b4e03572-c9f2-4607-b0ca-5f9464681599" /> | `![Add Task](link-gambar-2.png)` |
 
----
+---`<img width="788" height="628" alt="image" src="https://github.com/user-attachments/assets/54a38306-a1c5-48b1-b432-031fe89d87e5" />
 
 ## 💻 Cara Menjalankan Project
 
